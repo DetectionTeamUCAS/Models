@@ -1,0 +1,1 @@
+# Note: put checkpoint into RRPN_20180901_DOTA_v1.
