@@ -1,1 +1,1 @@
-[Pretrain Model Link](https://pan.baidu.com/s/1hlWcSABQu2u5T6SjeUvzmQ), password: 8gq6.
+[Pretrain Model Link](https://pan.baidu.com/s/1DV9N9Xw5WqDV6zdQLMfDQw), password: w5n4.
